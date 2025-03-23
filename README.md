@@ -1,1 +1,2 @@
-# UNB-FSO
+# Fundamentos de Sistemas Operacionais (UNB - FGA0170)
+**Ementa:** Princípios e características dos sistemas operacionais, Gerencia de processos e threads, Gerencia de memória, Gerencia de dispositivos de entrada e saída, Sistemas de arquivos, Segurança e proteção, Virtualização.
